@@ -2,7 +2,7 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-# test
+# test2
 xx = "23 12 2012"
 data = xx.split()
 xd = data[0]
